@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @roxyde
 - 👀 I’m interested in the programming
 - 🌱 I’m currently learning js
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on create a discord bot in js
 - 📫 How to reach me discord 
 
 <!---
